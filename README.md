@@ -21,12 +21,12 @@ A responsive therapy practice website created as an assignment, featuring modern
 
 ## 🚀 Quick Start
 
-\`\`\`bash
+```bash
 git clone https://github.com/piyush15975/dr-serena-blake-therapy.git
 cd dr-serena-blake-therapy
 npm install
 npm run dev
-\`\`\`
+```
 
 ## 🛠️ Tech Stack
 
