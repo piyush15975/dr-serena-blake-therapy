@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr. Serena Blake Therapy Website - Assignment Project
 
-## Getting Started
+A responsive therapy practice website created as an assignment, featuring modern web development practices and professional healthcare design.
 
-First, run the development server:
+## 📋 Assignment Overview
 
-```bash
+**Objective**: Create a professional therapist website with modern design and functionality  
+**Subject**: Web Development / Frontend Development  
+**Technologies**: Next.js 15, TypeScript, Tailwind CSS  
+
+## 🎯 Assignment Requirements Met
+
+- ✅ Responsive design for all devices
+- ✅ Professional healthcare website layout
+- ✅ Contact form with validation
+- ✅ Video hero section
+- ✅ Services and pricing sections
+- ✅ FAQ accordion functionality
+- ✅ SEO optimization
+- ✅ Accessibility compliance
+
+## 🚀 Quick Start
+
+\`\`\`bash
+git clone https://github.com/piyush15975/dr-serena-blake-therapy.git
+cd dr-serena-blake-therapy
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+\`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Add \`hero-video.mp4\` to \`public/\` folder.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: Next.js 15
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Images**: Next.js Image optimization
+- **Animations**: Intersection Observer API
 
-## Learn More
+## 📱 Features Implemented
 
-To learn more about Next.js, take a look at the following resources:
+- Mobile-first responsive design
+- Smooth scroll animations
+- Professional contact form
+- Video background hero section
+- Service showcase with images
+- FAQ section with accordion
+- Session pricing display
+- Footer with contact information
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deployed on Vercel: [Live Demo Link]
 
-## Deploy on Vercel
+## 📝 Assignment Notes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project demonstrates proficiency in:
+- Modern React/Next.js development
+- Responsive web design principles
+- Form handling and validation
+- Professional UI/UX design
+- Healthcare website best practices
+- Performance optimization
