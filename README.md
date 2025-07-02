@@ -28,8 +28,6 @@ npm install
 npm run dev
 \`\`\`
 
-Add \`hero-video.mp4\` to \`public/\` folder.
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15
@@ -51,7 +49,7 @@ Add \`hero-video.mp4\` to \`public/\` folder.
 
 ## 🚀 Deployment
 
-Deployed on Vercel: [Live Demo Link]
+Deployed on Vercel: 
 
 ## 📝 Assignment Notes
 
