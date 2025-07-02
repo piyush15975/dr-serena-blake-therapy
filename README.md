@@ -49,7 +49,7 @@ npm run dev
 
 ## 🚀 Deployment
 
-Deployed on Vercel: 
+Deployed on Vercel: https://dr-serena-blake-therapy.vercel.app/
 
 ## 📝 Assignment Notes
 
