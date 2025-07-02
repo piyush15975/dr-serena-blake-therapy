@@ -1,12 +1,15 @@
+"use client";
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { FAQAccordion } from "@/components/faq-accordion"
 import { ContactForm } from "@/components/contact-form"
 import Image from "next/image"
+import Link from "next/link"
 
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-[#f5f3f0]">
       {/* Header - Mobile optimized */}
+    <Link href="/" className="flex items-center gap-3 md:gap-4 hover:opacity-90 transition-opacity " onClick={() => window.location.reload()}>
       <header className="bg-[#f5f3f0] pt-6 pb-4 md:pt-12 md:pb-8">
         <div className="max-w-7xl mx-auto px-4 md:px-8">
           <div className="flex items-center">
@@ -31,6 +34,7 @@ export default function HomePage() {
           </div>
         </div>
       </header>
+      </Link>
 
       {/* Hero Section - Mobile optimized video */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
